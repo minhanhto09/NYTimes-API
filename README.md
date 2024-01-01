@@ -13,7 +13,6 @@ In this project, we will follow these steps:
 3. Build a user-friendly Shiny app that allows users to choose a year, month, and day. Users can also input their own APIs if they prefer. The app will display a neatly organized list of front-page New York Times headlines for the chosen date.
 
 ![Image1](https://github.com/minhanhto09/NYTimes-API/blob/main/Image1)
-
 Additionally, users can click on any headline to see more details, including the title, author, first paragraph, image(s), and a working link to the full article on nytimes.com.
 
 ![Image2](https://github.com/minhanhto09/NYTimes-API/blob/main/Image2)
